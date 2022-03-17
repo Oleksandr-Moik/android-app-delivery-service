@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Служба доставки</string>
+    <string name="orders_list">Список замовлень</string>
+
+    <string name="order">Замовлення</string>
+    <string name="named">Назва</string>
+    <string name="date">Дата</string>
+    <string name="time">Час</string>
+
+    <string name="address">Адреса</string>
+    <string name="private_build">Приватний будинок</string>
+    <string name="flat">Квартира</string>
+    <string name="office">Офіс</string>
+    <string name="state">Область</string>
+    <string name="city">Місто</string>
+    <string name="build_num">Номер будинку</string>
+    <string name="street">Вулиця</string>
+    <string name="floor">Поверх</string>
+    <string name="number">Номер</string>
+
+    <string name="tovar">Товар</string>
+    <string name="tovar_liqud">Рідина</string>
+    <string name="tovar_solid">Тверда матерія</string>
+    <string name="manufacture">Виробник</string>
+    <string name="prepaid">Передплата</string>
+    <string name="paided">Оплачено</string>
+    <string name="price">Ціна</string>
+    <string name="total_price">Ціна</string>
+    <string name="valuta_uah">грн.</string>
+    <string name="product_count">Кількість</string>
+
+    <string name="create">Створити</string>
+    <string name="creating">Створення</string>
+    <string name="created">Створено</string>
+
+    <string name="delete">Видалити</string>
+    <string name="deleting">Видалення</string>
+    <string name="deleted_selected_items">Вибрані елементи видалені</string>
+
+    <string name="cancel">Скасувати</string>
+    <string name="canceling">Скасування</string>
+    <string name="canceled">Скасовано</string>
+
+    <string name="add">Додати</string>
+    <string name="adding">Дадавання</string>
+    <string name="added">Додано</string>
+
+    <string name="edit">Редагувати</string>
+    <string name="editing">Редагування</string>
+
+    <string name="next">Далі</string>
+    <string name="back">Назад</string>
+
+    <string name="save">Зберегти</string>
+    <string name="list_loaded">Список завантежено</string>
+    <string name="list_saved">Список збережено</string>
+    <string name="list_not_saved">Список не збережено</string>
+    <string name="list_selected_seved">Вибрані елементи збережені</string>
+    <string name="list_selected_not_saved">Вибрані елементи не збережені</string>
+
+    <string name="watching">Перегляд</string>
+    <string name="watch_order">Переглянути замовлення</string>
+
+    <string name="apply">Застосувати</string>
+    <string name="filter">Фільтрувати</string>
+    <string name="search">Пошук</string>
+    <string name="not_valideted">Заповніть коректно всі поля</string>
+    <string name="filter_off">Вимкнути фільтр</string>
+    <string name="prepaided">З передоплатою</string>
+    <string name="not_prepaided">Без передоплати</string>
+    <string name="filter_address_info">Введіть частину адреси або повну для точнішого пошуку</string>
+    <string name="add_product">Додати товар</string>
+    <string name="capacity">Об\'єм</string>
+    <string name="size">Розмір (Ш-В-Д)</string>
+    <string name="edited">Відредаговано</string>
+
+</resources>

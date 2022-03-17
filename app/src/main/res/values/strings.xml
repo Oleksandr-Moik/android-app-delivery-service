@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Delivery service</string>
+
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="paided">Paided</string>
+    <string name="address">Address</string>
+    <string name="price">Price</string>
+    <string name="product_count">Count</string>
+    <string name="field" translatable="false"> </string>
+    <string name="valuta_uah">UAH</string>
+    <string name="orders_list">List of orders</string>
+    <string name="order">Order</string>
+    <string name="tovar">Product</string>
+    <string name="prepaid">Prepaid</string>
+    <string name="tovar_liqud">Liqut tovar</string>
+    <string name="tovar_solid">Solid material tovar</string>
+    <string name="flat">Flat</string>
+    <string name="office">Office</string>
+    <string name="private_build">Private build</string>
+    <string name="manufacture">Manufacture</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="street">Street</string>
+    <string name="build_num">Build number</string>
+    <string name="number">Number</string>
+    <string name="floor">Floor</string>
+    <string name="search">Search</string>
+    <string name="named">Name</string>
+    <string name="total_price">Price</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="added">Added</string>
+    <string name="list_saved">List saved</string>
+    <string name="create">Create</string>
+    <string name="creating">Creating</string>
+    <string name="adding">Adding</string>
+    <string name="editing">Editing</string>
+    <string name="list_not_saved">List not saved</string>
+    <string name="list_loaded">List loaded</string>
+    <string name="not_valideted">Entry corect all fields</string>
+    <string name="canceled">Canceled</string>
+    <string name="list_selected_seved">Selected items will saved</string>
+    <string name="list_selected_not_saved">Selected items will not saved</string>
+    <string name="back">Back</string>
+    <string name="filter">Filter</string>
+    <string name="deleting">Deleting</string>
+    <string name="delete">Delete</string>
+    <string name="watching">Watching</string>
+    <string name="canceling">Canceling</string>
+    <string name="created">Created</string>
+    <string name="deleted_selected_items">Selected items will deleted</string>
+    <string name="watch_order">View order</string>
+    <string name="save">Save</string>
+    <string name="apply">Apply</string>
+    <string name="filter_off">Off filter</string>
+    <string name="prepaided">Prepaided</string>
+    <string name="not_prepaided">No prepaided</string>
+    <string name="filter_address_info">Enter part of the address or full address to refine your search</string>
+    <string name="add_product">Add product</string>
+    <string name="size">Size (W-H-L)</string>
+    <string name="capacity">Capacity</string>
+    <string name="edited">Edited</string>
+
+</resources>

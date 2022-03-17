@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="types">#62cbf1</color>
+    <color name="selected">#f79c9c</color>
+    <color name="unselected">#7cffbd</color>
+</resources>

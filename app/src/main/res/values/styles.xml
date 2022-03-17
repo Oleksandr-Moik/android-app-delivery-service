@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/holo_orange_light</item>
+        <item name="colorPrimaryDark">@android:color/holo_orange_dark</item>
+        <item name="colorAccent">@color/types</item>
+        <item name="android:navigationBarColor">@android:color/holo_orange_light</item>
+    </style>
+
+    <style name="field_name" parent="Base.Widget.AppCompat.TextView.SpinnerItem">
+        <item name="android:textSize">15dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="activity_title" parent="field_name">
+        <item name="android:textSize">30dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="list_item_title" parent="activity_title">
+        <item name="android:textSize">25dp</item>
+
+    </style>
+
+    <style name="item_field" parent="field_name">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+
+    <style name="fab_style" parent="Widget.Design.FloatingActionButton">
+        <item name="android:layout_marginRight">16dp</item>
+    </style>
+    <style name="fab_mini" parent="fab_style">
+        <item name="android:layout_marginRight">24dp</item>
+    </style>
+    <style name="fab_add" parent="fab_mini">
+        <!--<item name="android:layout_marginBottom">270dp</item>-->
+    </style>
+    <style name="fab_save" parent="fab_mini">
+        <!--<item name="android:layout_marginBottom">210dp</item>-->
+    </style>
+    <style name="fab_filter" parent="fab_mini">
+        <!--<item name="android:layout_marginBottom">150dp</item>-->
+    </style>
+    <style name="fab_delete" parent="fab_mini">
+        <!--<item name="android:layout_marginBottom">90dp</item>-->
+    </style>
+
+</resources>
